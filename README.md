@@ -29,7 +29,7 @@ https://estefania.github.io/pfo2-api-tareas/
 1. Clonar el repositorio:
 
 ```bash
-git clone https://estefania.github.io/pfo2-api-tareas/
+git clone https://github.com/Estefaniavago/PFO2Redes.git
 
 ```
 
