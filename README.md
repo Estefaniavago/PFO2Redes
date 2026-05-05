@@ -29,8 +29,8 @@ https://estefania.github.io/pfo2-api-tareas/
 1. Clonar el repositorio:
 
 ```bash
-git clone 
-cd 
+git clone https://estefania.github.io/pfo2-api-tareas/
+
 ```
 
 2. Instalar dependencias:
