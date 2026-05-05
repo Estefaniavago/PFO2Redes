@@ -11,6 +11,9 @@ Este proyecto consiste en el desarrollo de una API REST utilizando Flask que per
 La aplicación implementa almacenamiento persistente con SQLite y seguridad mediante el hash de contraseñas.
 
 ---
+## 🌐 Documentación web
+
+https://estefania.github.io/pfo2-api-tareas/
 
 ## Tecnologías utilizadas
 

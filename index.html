@@ -3,34 +3,60 @@
 <head>
     <meta charset="UTF-8">
     <title>PFO 2 - API Tareas</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
-<h1> Sistema de Gestión de Tareas</h1>
+<header>
+    <h1>📌 Sistema de Gestión de Tareas</h1>
+    <p>API REST con Flask + SQLite</p>
+</header>
 
-<p>API REST desarrollada con Flask y SQLite.</p>
+<section>
+    <h2>📖 Descripción</h2>
+    <p>
+        Esta API permite registrar usuarios, iniciar sesión y acceder a un sistema básico de tareas.
+        Implementa persistencia con SQLite y seguridad mediante hash de contraseñas.
+    </p>
+</section>
 
-<h2>Endpoints</h2>
-<ul>
-    <li>POST /registro</li>
-    <li>POST /login</li>
-    <li>GET /tareas</li>
-</ul>
+<section>
+    <h2>🔌 Endpoints</h2>
+    <div class="card">
+        <p><strong>POST /registro</strong> → Registrar usuario</p>
+        <p><strong>POST /login</strong> → Iniciar sesión</p>
+        <p><strong>GET /tareas</strong> → Página HTML</p>
+    </div>
+</section>
 
-<h2> Evidencias</h2>
-<img src="images/image.png" width="500">
-<img src="images/image-1.png" width="500">
-<img src="images/image-2.png" width="500">
-<img src="images/image-3.png" width="500">
-<img src="images/image-4.png" width="500">
-<img src="images/image-5.png" width="500">
-<img src="images/image-6.png" width="500">
-<img src="images/image-7.png" width="500">
+<section>
+    <h2>🧪 Evidencias de pruebas</h2>
 
-<h2> Cómo ejecutar</h2>
-<pre>
-python servidor.py
-</pre>
+    <h3>✔ Casos exitosos</h3>
+    <div class="grid">
+        <img src="images/image.png">
+        <img src="images/image-2.png">
+        <img src="images/image-7.png">
+    </div>
+
+    <h3>❌ Casos de error</h3>
+    <div class="grid">
+        <img src="images/image-1.png">
+        <img src="images/image-3.png">
+        <img src="images/image-4.png">
+        <img src="images/image-5.png">
+        <img src="images/image-6.png">
+    </div>
+</section>
+
+<section>
+    <h2>⚙️ Cómo ejecutar</h2>
+    <pre>python servidor.py</pre>
+</section>
+
+<footer>
+    <p>Desarrollado por Estefania Vago - 2026</p>
+</footer>
 
 </body>
 </html>
