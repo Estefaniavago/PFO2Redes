@@ -13,7 +13,7 @@ La aplicación implementa almacenamiento persistente con SQLite y seguridad medi
 ---
 ## 🌐 Documentación web
 
-https://estefania.github.io/pfo2-api-tareas/
+https://estefaniavago.github.io/PFO2Redes/
 
 ## Tecnologías utilizadas
 
