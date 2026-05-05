@@ -115,30 +115,30 @@ Se validaron los siguientes casos:
 ### Casos exitosos
 
 * Registro de usuario
-![Registro exitoso](image.png)
+![Registro exitoso](images/image.png)
 
 * Inicio de sesión correcto
-![Login exitoso](image-2.png)
+![Login exitoso](images/image-2.png)
 
 * Acceso al endpoint `/tareas`
-![Endpoint tareas](image-7.png)
+![Endpoint tareas](images/image-7.png)
 
 ### Casos de error
 
 * Registro con usuario duplicado
-![Usuario existente al registrar](image-1.png)
+![Usuario existente al registrar](images/image-1.png)
 
 * Registro con datos incompletos
-![Registro con datos incompletos](image-5.png)
+![Registro con datos incompletos](images/image-5.png)
 
 * Inicio de sesión con datos incompletos
-![Login con datos incompletos](image-6.png)
+![Login con datos incompletos](images/image-6.png)
 
 * Login con contraseña incorrecta
-![Contraseña incorrectas](image-3.png)
+![Contraseña incorrectas](images/image-3.png)
 
 * Login con usuario inexistente
-![Login con usuario inexistente](image-4.png)
+![Login con usuario inexistente](images/image-4.png)
 
 ---
 
